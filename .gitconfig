@@ -1,3 +1,10 @@
+# personal setting
+[user]
+    name = Kun Xi
+    email = kunxi@kunxi.org
+[github]
+    user = kunxi
+
 [color]
     diff = auto
     status = auto
@@ -38,5 +45,3 @@
     editor = vim
 [color "diff"]
     whitespace = red reverse
-[include]
-    path = .gitconfig.my
